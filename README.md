@@ -2,7 +2,7 @@
 
 ## Be evolved and creative
 
-Awesome project is offered by @Rocketseat made with 💙. Stay tuned!
+Awesome project is offered by ![Rocketseat](https://github.com/rocketseat). Stay tuned!
 
 NLW eSports was made for present a dynamic repository which shows information about your personal favorite games, streamers and social media.
 
