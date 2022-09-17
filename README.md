@@ -8,7 +8,11 @@ NLW eSports was made for present a dynamic repository which shows information ab
 
 <img src="https://i.ibb.co/zSddt2Y/Screenshot-from-2022-09-17-16-18-32.png" />
 
+<div style="text-align: center;">
+
 ![Project Homepage](https://github.com/douglasilvadev/nlw-esports-explorer)
+
+</div>
 
 ## Technologies
 
